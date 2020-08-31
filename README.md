@@ -6,8 +6,11 @@ The main advantage of the platform is the number of programming languages availa
 
 Check it out at https://www.codewars.com/ ! 
 
-# Codewars
+## Problems
 **Problems have been solved:** 2
 
-Problem | Python
-[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556)|[py](counting-sheep/solution.py)
+Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
+
+| Problem | Difficulty | Python |
+|---------|:----------:|:------:|
+[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8 | [py](counting-sheep/solution.py) |

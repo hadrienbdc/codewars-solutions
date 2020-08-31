@@ -1,2 +1,2 @@
-# codewars-soloutions
+# Codewars Solutions
 Personal Codewars Solutions

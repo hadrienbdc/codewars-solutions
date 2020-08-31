@@ -13,6 +13,7 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | 7 | [py](Array.diff/solution.py) |
 | [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | 7 | [py](Jaden%20Casing%20Strings/solution.py) |
 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | 7 | [py](Get%20the%20MiddleCharacter/solution.py) |
 | [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8 | [py](Counting%20sheep/solution.py) |

@@ -13,4 +13,5 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
-[Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8 | [py](counting-sheep/solution.py) |
+| [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 | [py](counting-sheep/solution.py) |
+| [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8 | [py](counting-sheep/solution.py) |

@@ -13,6 +13,7 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | 5 | [py](Maximum%20subarray%20sum/solution.py) |
 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | 7 | [py](Highest%20Scoring%20Word/solution.py) |
 | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) | 7 | [py](Money,%20Money,%20Money/solution.py) |
 | [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada) | 7 | [py](Breaking%20chocolate%20problem/solution.py) |

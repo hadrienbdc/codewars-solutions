@@ -7,12 +7,13 @@ The main advantage of the platform is the number of programming languages availa
 Check it out at https://www.codewars.com/ ! 
 
 ## Problems
-**Problems have been solved:** 15
+**Problems have been solved:** 16
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | 5 | [py](Greed%20is%20Good/solution.py) |
 | [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) | 5 | [py](Not%20very%20secure/solution.py) |
 | [Reverse polish notation calculator](https://www.codewars.com/kata/52f78966747862fc9a0009ae) | 6 | [py](Reverse%20polish%20notation%20calculator/solution.py) |
 | [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e) | 5 | [py](First%20non-repeating%20character/solution.py) |

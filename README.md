@@ -13,6 +13,7 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Reverse polish notation calculator](https://www.codewars.com/kata/52f78966747862fc9a0009ae) | 6 | [py](Reverse%20polish%20notation%20calculator/solution.py) |
 | [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e) | 5 | [py](First%20non-repeating%20character/solution.py) |
 | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | 6 | [py](Valid%20Braces/solution.py) |
 | [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9) | 6 | [py](Make%20the%20Deadfish%20swim/solution.py) |

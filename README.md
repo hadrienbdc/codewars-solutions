@@ -7,12 +7,13 @@ The main advantage of the platform is the number of programming languages availa
 Check it out at https://www.codewars.com/ ! 
 
 ## Problems
-**Problems have been solved:** 25
+**Problems have been solved:** 26
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048) | 3 | [py](Calculator/solution.py) |
 | [Validate Sudoku with size `NxN`](https://www.codewars.com/kata/540afbe2dc9f615d5e000425) | 4 | [py](Validate%20Sudoku%20with%20size%20`NxN`/solution.py) |
 | [Make a spiral](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | 3 | [py](Make%20a%20spiral/solution.py) |
 | [Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef) | 4 | [py](Explosive%20Sum/solution.py) |

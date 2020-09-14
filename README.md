@@ -7,12 +7,13 @@ The main advantage of the platform is the number of programming languages availa
 Check it out at https://www.codewars.com/ ! 
 
 ## Problems
-**Problems have been solved:** 18
+**Problems have been solved:** 19
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e) | 4 | [py](Codewars%20style%20ranking%20system/solution.py) |
 | [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) | 4 | [py](Recover%20a%20secret%20string%20from%20random%20triplets/solution.py) |
 | [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | 5 | [py](int32%20to%20IPv4/solution.py) |
 | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | 5 | [py](Greed%20is%20Good/solution.py) |

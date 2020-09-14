@@ -7,12 +7,16 @@ The main advantage of the platform is the number of programming languages availa
 Check it out at https://www.codewars.com/ ! 
 
 ## Problems
-**Problems have been solved:** 19
+**Problems have been solved:** 23
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef) | 4 | [py](Explosive%20Sum/solution.py) |
+| [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) | 5 | [py](Perimeter%20of%20squares%20in%20a%20rectangle/solution.py) |
+| [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) | 5 | [py](Directions%20Reduction/solution.py) |
+| [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001) | 4 | [py](Nesting%20Structure%20Comparison/solution.py) |
 | [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e) | 4 | [py](Codewars%20style%20ranking%20system/solution.py) |
 | [Recover a secret string from random triplets](https://www.codewars.com/kata/53f40dff5f9d31b813000774) | 4 | [py](Recover%20a%20secret%20string%20from%20random%20triplets/solution.py) |
 | [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | 5 | [py](int32%20to%20IPv4/solution.py) |

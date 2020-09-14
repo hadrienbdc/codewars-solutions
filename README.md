@@ -7,12 +7,13 @@ The main advantage of the platform is the number of programming languages availa
 Check it out at https://www.codewars.com/ ! 
 
 ## Problems
-**Problems have been solved:** 12
+**Problems have been solved:** 13
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
+| [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e) | 5 | [py](First%20non-repeating%20character/solution.py) |
 | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | 6 | [py](Valid%20Braces/solution.py) |
 | [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9) | 6 | [py](Make%20the%20Deadfish%20swim/solution.py) |
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | 5 | [py](Maximum%20subarray%20sum/solution.py) |

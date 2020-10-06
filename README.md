@@ -1,10 +1,18 @@
+<p align="center">
+    <a href="https://www.codewars.com/">
+        <img height=100 src="https://www.qualified.io/shared/images/codewars-black-large-24a9d355.png">
+    </a>
+</p>
+
 # Personal Codewars Solutions
 
 Codewars is a platform for computer programming where you solve coding challenges same as HackerRank or CodingGame.
 The level of problems is between easy and intermadiate.
 The main advantage of the platform is the number of programming languages available (30+).
 
-Check it out at https://www.codewars.com/ ! 
+Check it out at https://www.codewars.com/ !
+
+My profile: https://www.codewars.com/users/hbaflast
 
 ## Problems
 **Problems have been solved:** 29

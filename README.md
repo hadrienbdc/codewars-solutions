@@ -57,4 +57,4 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | SQL |
 |---------|:----------:|:------:|
-| [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | 8 | [py](Keep%20Hydrated!/solution.sql) |
+| [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | 8 | [sql](Keep%20Hydrated!/solution.sql) |

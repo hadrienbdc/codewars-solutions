@@ -15,9 +15,11 @@ Check it out at https://www.codewars.com/ !
 My profile: https://www.codewars.com/users/hbaflast
 
 ## Problems
-**Problems have been solved:** 29
+**Problems have been solved:** 30
 
 Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
+
+### Python
 
 | Problem | Difficulty | Python |
 |---------|:----------:|:------:|
@@ -50,3 +52,9 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | 7 | [py](Get%20the%20MiddleCharacter/solution.py) |
 | [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | 8 | [py](Counting%20sheep/solution.py) |
 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 | [py](Multiply/solution.py) |
+
+### SQL 
+
+| Problem | Difficulty | SQL |
+|---------|:----------:|:------:|
+| [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | 8 | [py](Keep%20Hydrated!/solution.sql) |

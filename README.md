@@ -57,4 +57,8 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | SQL |
 |---------|:----------:|:------:|
+| [SQL: Regex AlphaNumeric Split](https://www.codewars.com/kata/594257d4db68b6e99200002c) | 6 | [sql](SQL%20Regex%20AlphaNumeric%20Split/solution.sql) |
+| [SQL Concatenating Columns](https://www.codewars.com/kata/59440034e94fae05b2000073) | 7 | [sql](SQL%20Concatenating%20Columns/solution.sql) |
+| [SQL Basics: Simple GROUP BY](https://www.codewars.com/kata/58111f4ee10b5301a7000175) | 7 | [sql](SQL%20Basics%20Simple%20GROUP%20BY/solution.sql) |
+| [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | 7 | [sql](Sum%20of%20odd%20numbers/solution.sql) |
 | [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | 8 | [sql](Keep%20Hydrated!/solution.sql) |

@@ -58,7 +58,12 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 | Problem | Difficulty | SQL |
 |---------|:----------:|:------:|
 | [SQL: Regex AlphaNumeric Split](https://www.codewars.com/kata/594257d4db68b6e99200002c) | 6 | [sql](SQL%20Regex%20AlphaNumeric%20Split/solution.sql) |
-| [SQL Concatenating Columns](https://www.codewars.com/kata/59440034e94fae05b2000073) | 7 | [sql](SQL%20Concatenating%20Columns/solution.sql) |
+| [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958) | 7 | [sql](Alphabetical%20Addition/solution.sql) |
+| [SQL with Pokemon: Damage Multipliers](https://www.codewars.com/kata/5ab828bcedbcfc65ea000099) | 7 | [sql](SQL%20with%20Pokemon%20Damage%20Multipliers/solution.sql) |
+| [Easy SQL: Counting and Grouping](https://www.codewars.com/kata/594633020a561e329a0000a2) | 7 | [sql](Easy SQL%20Counting%20and%20Grouping/solution.sql) |
+| [SQL Basics: Simple JOIN](https://www.codewars.com/kata/5802e32dd8c944e562000020) | 7 | [sql](SQL%20Basics%20Simple%20JOIN/solution.sql) |
+| [SQL easy regex extraction](https://www.codewars.com/kata/5c0ae69d5f72394e130025f6) | 7 | [sql](SQL%20easy%20regex%20extraction/solution.sql) |
+| [SQL:Concatenating Columns](https://www.codewars.com/kata/59440034e94fae05b2000073) | 7 | [sql](SQL%20Concatenating%20Columns/solution.sql) |
 | [SQL Basics: Simple GROUP BY](https://www.codewars.com/kata/58111f4ee10b5301a7000175) | 7 | [sql](SQL%20Basics%20Simple%20GROUP%20BY/solution.sql) |
 | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | 7 | [sql](Sum%20of%20odd%20numbers/solution.sql) |
 | [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | 8 | [sql](Keep%20Hydrated!/solution.sql) |

@@ -57,6 +57,9 @@ Ps: For the difficulty, 8 is the minimum and 1 is the maximum.
 
 | Problem | Difficulty | SQL |
 |---------|:----------:|:------:|
+| [Count Weekdays](https://www.codewars.com/kata/58241d05e7a162c5b100010f) | 5 | [sql](Count%20Weekdays/solution.sql) |
+| [SQL Basics: Simple VIEW](https://www.codewars.com/kata/5811527d9d278b242f000006) | 5 | [sql](SQL%20Basics%20Simple%20VIEW/solution.sql) |
+| [SQL Basics: Top 10 customers by total payments amount](https://www.codewars.com/kata/580d08b5c049aef8f900007c) | 6 | [sql](SQL%20Basics%20Top%2010%20customers%20by%20total payments%20amount/solution.sql) |
 | [SQL: Regex AlphaNumeric Split](https://www.codewars.com/kata/594257d4db68b6e99200002c) | 6 | [sql](SQL%20Regex%20AlphaNumeric%20Split/solution.sql) |
 | [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958) | 7 | [sql](Alphabetical%20Addition/solution.sql) |
 | [SQL with Pokemon: Damage Multipliers](https://www.codewars.com/kata/5ab828bcedbcfc65ea000099) | 7 | [sql](SQL%20with%20Pokemon%20Damage%20Multipliers/solution.sql) |
